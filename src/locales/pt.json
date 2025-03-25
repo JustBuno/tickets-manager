@@ -1,0 +1,132 @@
+{
+  "clientDetails": {
+    "title": "FICHA DE CLIENTE",
+    "noDevices": "Cliente sem dispositivos associados.",
+    "noRepairs": "Cliente sem histórico de intervenções.",
+    "name": "Nome",
+    "nif": "NIF",
+    "address": "Morada",
+    "maps": "Localização",
+    "mobile": "Telemóvel",
+    "phone": "Telefone",
+    "email": "E-mail",
+    "nd": "Não Definido",
+    "mapsTrue": "Disponível"
+  },
+
+  "deviceDetails": {
+    "brand": "Marca",
+    "model": "Modelo",
+    "serial": "Número de Série",
+    "nd": "Não Definido",
+    "successMessage": "Cliente adicionado com sucesso!"
+  },
+
+  "repairDetails": {
+    "repairNumber": "Intervenção #",
+    "noDevice": "Nenhum Dispositivo",
+    "description": "Descrição da Assistência",
+    "password": "Senha",
+    "charger": "Transformador",
+    "cable": "Cabo AC",
+    "battery": "Bateria",
+    "bag": "Bolsa",
+    "other": "Outros Acessórios",
+    "budget": "Orçamento / Serviço Efetuado",
+    "notes": "Notas",
+    "delivered": "Dispositivo Entregue",
+    "successMessage": "Intervenção adicionada com sucesso!",
+    "client": "Cliente",
+    "device": "Equipamento",
+    "tech": "Técnico Responsável",
+    "startDate": "Data de Início",
+    "accessories": "Acessórios",
+    "none": "Nenhum",
+    "status": "Estado da Assistência",
+    "endDate": "Data de Finalização",
+    "serial": "S/N"
+  },
+
+  "addClient": {
+    "title": "NOVO CLIENTE",
+    "successMessage": "Cliente adicionado com sucesso!"
+  },
+
+  "addDevice": {
+    "title": "NOVO DISPOSITIVO",
+    "successMessage": "Cliente adicionado com sucesso!"
+  },
+
+  "addRepair": {
+    "title": "NOVA INTERVENÇÃO",
+    "successMessage": "Intervenção adicionada com sucesso!"
+  },
+
+  "editClient": {
+    "title": "EDITAR CLIENTE",
+    "successMessage": "Cliente atualizado com sucesso!"
+  },
+
+  "editDevice": {
+    "title": "EDITAR DISPOSITIVO",
+    "successMessage": "Dispositivo atualizado com sucesso!"
+  },
+
+  "editRepair": {
+    "title": "EDITAR INTERVENÇÃO",
+    "successMessage": "Intervenção atualizada com sucesso!"
+  },
+
+  "form": {
+    "addSubmit": "ADICIONAR",
+    "editSubmit": "ATUALIZAR",
+    "deleteSubmit": "ELIMINAR",
+    "submitError": "Ocorreu um erro ao submeter o formulário."
+  },
+
+  "login": {
+    "username": "Utilizador",
+    "password": "Senha",
+    "demoEnable": "Ativar modo Demo",
+    "demoDisable": "Desativar modo Demo",
+    "submit": "INICIAR SESSÃO"
+  },
+
+  "signup": {
+    "displayname": "Nome e Apelido",
+    "username": "Nome de Utilizador",
+    "password": "Senha",
+    "confirmPassword": "Confirmar Senha",
+    "submit": "CRIAR CONTA",
+    "success": "Conta criada com sucesso!"
+  },
+
+  "repairList": {
+    "title": "INTERVENÇÕES",
+    "undelivered": "Por Entregar",
+    "delivered": "Entregues",
+    "noRepair": "Nenhuma intervenção encontrada."
+  },
+
+  "clientList": {
+    "title": "LISTA DE CLIENTES",
+    "noClient": "Nenhum cliente encontrado."
+  },
+
+  "settings": {
+    "logout": "Terminar Sessão",
+    "changePassword": "Alterar Senha",
+    "newPassword": "Nova Senha",
+    "confirmNewPassword": "Confirmar Nova Senha",
+    "passwordMatchError": "Senhas não coincidem!",
+    "inviteLink": "Gerar Link de Convite",
+    "demoEnable": "Ativar modo Demo",
+    "demoDisable": "Desativar modo Demo",
+    "changePasswordSuccess": "Senha alterada com sucesso!",
+    "changePasswordError": "Erro na alteração da senha",
+    "unknownError": "Erro desconhecido",
+    "copyLinkSuccess": "Link copiado para a área de transferência",
+    "copyLinkError": "Erro ao copiar link para área de transferência",
+    "toggleLanguage": "Mudar Idioma"
+  }
+}

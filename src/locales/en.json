@@ -1,0 +1,132 @@
+{
+    "clientDetails": {
+      "title": "CLIENT DETAILS",
+      "noDevices": "Client has no associated devices.",
+      "noRepairs": "Client has no ticket history.",
+      "name": "Name",
+      "nif": "Tax Number",
+      "address": "Address",
+      "maps": "Location",
+      "mobile": "Mobile",
+      "phone": "Phone",
+      "email": "Email",
+      "nd": "Not Defined",
+      "mapsTrue": "Available"
+    },
+  
+    "deviceDetails": {
+      "brand": "Brand",
+      "model": "Model",
+      "serial": "Serial Number",
+      "nd": "Not Defined",
+      "successMessage": "Client added successfully!"
+    },
+  
+    "repairDetails": {
+      "repairNumber": "Ticket #",
+      "noDevice": "No Device",
+      "description": "Ticket Description",
+      "password": "Password",
+      "charger": "Charger",
+      "cable": "AC Cable",
+      "battery": "Battery",
+      "bag": "Bag",
+      "other": "Other Accessories",
+      "budget": "Budget / Service Performed",
+      "notes": "Notes",
+      "delivered": "Device Delivered",
+      "successMessage": "Ticket created successfully!",
+      "client": "Client",
+      "device": "Device",
+      "tech": "Technician",
+      "startDate": "Start Date",
+      "accessories": "Accessories",
+      "none": "None",
+      "status": "Ticket Status",
+      "endDate": "End Date",
+      "serial": "S/N"
+    },
+  
+    "addClient": {
+      "title": "NEW CLIENT",
+      "successMessage": "Client added successfully!"
+    },
+  
+    "addDevice": {
+      "title": "NEW DEVICE",
+      "successMessage": "Device added successfully!"
+    },
+  
+    "addRepair": {
+      "title": "NEW TICKET",
+      "successMessage": "Ticket added successfully!"
+    },
+  
+    "editClient": {
+      "title": "EDIT CLIENT",
+      "successMessage": "Client updated successfully!"
+    },
+  
+    "editDevice": {
+      "title": "EDIT DEVICE",
+      "successMessage": "Device updated successfully!"
+    },
+  
+    "editRepair": {
+      "title": "EDIT TICKET",
+      "successMessage": "Ticket updated successfully!"
+    },
+  
+    "form": {
+      "addSubmit": "ADD",
+      "editSubmit": "UPDATE",
+      "deleteSubmit": "DELETE",
+      "submitError": "An error occurred while submitting the form."
+    },
+  
+    "login": {
+      "username": "Username",
+      "password": "Password",
+      "demoEnable": "Enable Demo Mode",
+      "demoDisable": "Disable Demo Mode",
+      "submit": "LOGIN"
+    },
+  
+    "signup": {
+      "displayname": "Name and Surname",
+      "username": "Username",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "submit": "CREATE ACCOUNT",
+      "success": "Account created successfully!"
+    },
+  
+    "repairList": {
+      "title": "TICKETS",
+      "undelivered": "Pending Delivery",
+      "delivered": "Delivered",
+      "noRepair": "No tickets found."
+    },
+  
+    "clientList": {
+      "title": "CLIENT LIST",
+      "noClient": "No clients found."
+    },
+  
+    "settings": {
+      "logout": "Logout",
+      "changePassword": "Change Password",
+      "newPassword": "New Password",
+      "confirmNewPassword": "Confirm New Password",
+      "passwordMatchError": "Passwords do not match!",
+      "inviteLink": "Generate Invite Link",
+      "demoEnable": "Enable Demo Mode",
+      "demoDisable": "Disable Demo Mode",
+      "changePasswordSuccess": "Password changed successfully!",
+      "changePasswordError": "Error changing password",
+      "unknownError": "Unknown error",
+      "copyLinkSuccess": "Link copied to clipboard",
+      "copyLinkError": "Error copying link to clipboard",
+      "toggleLanguage": "Change Language"
+    }
+  }  
